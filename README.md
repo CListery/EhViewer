@@ -8,12 +8,6 @@
 
 An E-Hentai Application for Android.
 
-
-# Screenshot
-
-![screenshot-01](art/screenshot-01.png)
-
-
 # Build
 
 Windows
